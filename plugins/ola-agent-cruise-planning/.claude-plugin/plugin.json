@@ -1,0 +1,8 @@
+{
+  "name": "ola-agent-cruise-planning",
+  "description": "An intelligent assistant designed to help you plan your cruise vacations seamlessly. Get insights, recommendations, and booking assistance.",
+  "version": "0.1.0",
+  "author": {
+    "name": "craftwave"
+  }
+}
